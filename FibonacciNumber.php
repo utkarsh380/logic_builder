@@ -1,5 +1,5 @@
 <?php
-//https://leetcode.com/problems/fibonacci-number/submissions/
+//https://leetcode.com/problems/fibonacci-number/
 class FibonacciNumber {
     
     function fib($N) {

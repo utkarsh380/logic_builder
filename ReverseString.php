@@ -1,5 +1,5 @@
 <?php
-//https://leetcode.com/problems/reverse-string/submissions/
+//https://leetcode.com/problems/reverse-string/
 
 class ReverseString {
 

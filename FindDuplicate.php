@@ -1,5 +1,5 @@
 <?php
-//https://leetcode.com/problems/find-the-duplicate-number/submissions/
+//https://leetcode.com/problems/find-the-duplicate-number/
 class FindDuplicate {
 
 /**

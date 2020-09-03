@@ -1,6 +1,6 @@
 <?php
 class ValidPalindrome {
-    //https://leetcode.com/submissions/detail/390295978/
+    //https://leetcode.com/problems/valid-palindrome/
     /**
      * @param String $s
      * @return Boolean

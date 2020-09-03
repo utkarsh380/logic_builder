@@ -1,5 +1,5 @@
 <?php
-//https://leetcode.com/submissions/detail/390307914/
+//https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 class OddCount {
 
     /**

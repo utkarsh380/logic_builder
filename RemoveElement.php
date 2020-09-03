@@ -1,6 +1,6 @@
 <?php
 //RemoveElement
-//https://leetcode.com/problems/remove-element/submissions/
+//https://leetcode.com/problems/remove-element/
 class RemoveElement {
 
     function removeElement(&$nums, $val) {

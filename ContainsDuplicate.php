@@ -1,6 +1,6 @@
 <?php
 //CONTAINS-DUPLICATE PROBLEM
-//https://leetcode.com/submissions/detail/389354024/
+//https://leetcode.com/problems/contains-duplicate/
 class ContainsDuplicate {
 
     /**

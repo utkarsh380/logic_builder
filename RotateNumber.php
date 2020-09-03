@@ -1,6 +1,6 @@
 <?php
 class RotateNumber {
-//https://leetcode.com/submissions/detail/390282323/
+//https://leetcode.com/problems/rotate-array/
 /**
  * @param Integer[] $nums
  * @param Integer $k

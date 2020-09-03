@@ -1,6 +1,6 @@
 
 <?php
-//https://leetcode.com/submissions/detail/390264226/
+//https://leetcode.com/problems/count-primes/
 class CountPrimes {
 
     function countPrimes($n) {

@@ -1,4 +1,5 @@
 <?php
+//https://leetcode.com/submissions/detail/389406752/
 class PowerOfThree{
 function isPowerOfThree($n) {
      if($n==1) return true;

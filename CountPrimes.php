@@ -1,23 +1,23 @@
+
 <?php
+//https://leetcode.com/submissions/detail/390264226/
 class CountPrimes {
 
     function countPrimes($n) {
-        $count=0;
-
-       for($number = 2; $number<=$n; $number++){
-            if(isPrime($number)){
-                $count++; 
-            }
-        }
-        return $count;
-    }
-     function isPrime($number){
-        for($i=2; $i<$number; $i++){
-            if($number%i == 0){
-                return false; 
-            }
-        }
-        return true; 
+        $start=2;
+         $val=0;
+     for($i = $start ; $i <= $n ; $i++)
+		{
+			$count = 0;
+			for($j = 1 ; $j <= $i ; $j++)	
+			{
+				if($i % $j == 0)
+					$count = $count+1;
+			}
+			if($count == 2)
+			 $val=$val+1; 
+		}
+        return $val;
     }
 }
 ?>

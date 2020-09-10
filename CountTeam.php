@@ -1,5 +1,6 @@
 <?php
 //https://leetcode.com/problems/count-number-of-teams/
+
 class Solution {  
     function numTeams($rating) {
          $count = 0;

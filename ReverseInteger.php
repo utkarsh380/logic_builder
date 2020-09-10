@@ -2,10 +2,6 @@
 //https://leetcode.com/problems/reverse-integer/
 class Solution {
 
-    /**
-     * @param Integer $x
-     * @return Integer
-     */
     function reverse($num) {
         
         $isNegative = $num<0;

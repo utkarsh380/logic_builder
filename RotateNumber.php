@@ -7,11 +7,7 @@ class RotateNumber {
  * @return NULL
  */
 function rotate(&$nums, $k) {
-    for ($i = 0; $i < sizeof($nums); $i++)
-    {  
-      // echo $nums[$i]." ";  
-    }  
-  
+   
     for($i = 0; $i < $k; $i++){  
         $j; 
         $first;  
@@ -25,13 +21,7 @@ function rotate(&$nums, $k) {
           
         $nums[$j] = $first;  
     }  
-
-    for($i = 0; $i< sizeof($nums); $i++)
-    {  
-       // echo $nums[$i]." ";
-      
-    } 
-  return $nums[$i]." ";
+  return $nums;
 }
 }
 ?>
